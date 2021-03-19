@@ -14,7 +14,7 @@
 
 >문단 모양
 
-<img width"" height"" img src="/Ujeong01/png/강아지.jpg"></img>
+<img width"" height"" img src="/Ujeong01/png/강아지.jpg></img>
 
 
 Ujeong01/png/강아지.jpg
