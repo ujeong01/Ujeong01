@@ -13,18 +13,3 @@
 3. __이탤릭체__
 
 >문단 모양
-
-<img width"" height"" img src="./png/강아지.jpg></img>
-
-
-Ujeong01/png/강아지.jpg
-
-<img width"" height"" src=" Ujeong01/png/강아지.jpg"></img>
-
-
-    <img width"" height"" src="./png/강아지.jpg"></img>
-    
-<img width"" height"" src=" ./png/강아지.jpg"></img>
-    
-    
- <ing width"" heigeh"" src="./png/강아지.jpd"></img>
