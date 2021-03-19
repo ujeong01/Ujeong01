@@ -1,17 +1,17 @@
-### Hi there 👋
+# Hi there 
 ## Hi there
-# Hi there
-<!--
-**ujeong01/Ujeong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[네이버](https://naver.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 첫번째
+-  두번째
+-   세번째
+    
+***
+1. **볼드체**
+2. **이탤릭체**
+3. __이탤릭체__
+
+>문단 모양
+
+    
