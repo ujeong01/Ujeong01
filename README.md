@@ -14,4 +14,4 @@
 
 >문단 모양
 
-<ing width"" heigeh"" src="./png/보더콜리.jpg.crdownload"></img>
+<ing width"" heigeh"" src="./png/강아지.jpd"></img>
