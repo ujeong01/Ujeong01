@@ -14,4 +14,4 @@
 
 >문단 모양
 
-<img width"" height"" src="./png/보더콜리.png"></img>
+<img width"" height"" src="ujeong01/Ujeong01/png/보더콜리.png"></img>
