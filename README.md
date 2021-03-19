@@ -14,4 +14,5 @@
 
 >문단 모양
 
-<ing width"" heigeh"" src="./png/강아지.jpd"></img>
+
+ <ing width"" heigeh"" src="./png/강아지.jpd"></img>
