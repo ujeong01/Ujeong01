@@ -16,4 +16,6 @@
 
 <img width"" height"" src="" Ujeong01/png/보더콜리.png"></img>
 
-<img src="./png/보더콜리.jpg"></img>
+<img src="./png/보더콜리.jpg"" widrh"" height"></img>
+
+" width="450px" height="300px"
