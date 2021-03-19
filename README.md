@@ -14,5 +14,5 @@
 
 >문단 모양
 
-    <img width="" height="" src="/png/강아지.jpd"></img>
+    <img width"" height"" src="./png/강아지.jpg"></img>
  <ing width"" heigeh"" src="./png/강아지.jpd"></img>
