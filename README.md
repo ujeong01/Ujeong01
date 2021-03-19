@@ -16,7 +16,7 @@
 
     <img width"" height"" src="./png/강아지.jpg"></img>
     
-<img width"" height"" src="./png/강아지.jpg"></img>
+<img width"" height"" src=" ./png/강아지.jpg"></img>
     
     
  <ing width"" heigeh"" src="./png/강아지.jpd"></img>
